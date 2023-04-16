@@ -1,0 +1,1 @@
+const pageTitle = "Looking For Love";
